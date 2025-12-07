@@ -35,4 +35,5 @@ Este proyecto es una aplicación web interactiva diseñada para calcular las can
 
 ## Autor
 
-Desarrollado como parte del proyecto "CalculadoraMasas_Andres_Caso".
+Desarrollado como parte de la formacion En DAM por Andrés Caso Iglesias.
+
